@@ -73,4 +73,4 @@ This dashboard provides a comprehensive analysis of employee data for **Atlas La
 ![HR-Analytics-Dashboard_page-0003](https://github.com/user-attachments/assets/8656d94e-f2ef-4459-83c6-2b9e727201b2)
 ![HR-Analytics-Dashboard_page-0004](https://github.com/user-attachments/assets/33e4e5db-1b15-4186-952f-47846b8acecc)
 
-** Note:**  This is a fictional dataset
+**Note:** This is a fictional dataset 
