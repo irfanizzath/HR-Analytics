@@ -6,20 +6,16 @@ This dashboard provides a comprehensive analysis of employee data for **Atlas La
 
 ## Key Metrics
 
-* 
-**Total Employees:** 1,470 
+* **Total Employees:** 1,470 
 
 
-* 
-**Active Employees:** 1,233 
+* **Active Employees:** 1,233 
 
 
-* 
-**Inactive Employees:** 237 
+* **Inactive Employees:** 237 
 
 
-* 
-**Overall Attrition Rate:** 16.1% 
+* **Overall Attrition Rate:** 16.1% 
 
 
 
@@ -27,61 +23,49 @@ This dashboard provides a comprehensive analysis of employee data for **Atlas La
 
 ### 1. Overview
 
-* 
-**Department Breakdown:** Technology has the highest headcount, followed by Sales and Human Resources. 
+* **Department Breakdown:** Technology has the highest headcount, followed by Sales and Human Resources. 
 
 
-* 
-**Hiring Trends:** Tracks total employees and attrition status from 2012 to 2022. 
+* **Hiring Trends:** Tracks total employees and attrition status from 2012 to 2022. 
 
 
-* 
-**Role Analysis:** Visualizes active employees by specific job roles (e.g., Software Engineer, Data Scientist, Sales Executive). 
+* **Role Analysis:** Visualizes active employees by specific job roles (e.g., Software Engineer, Data Scientist, Sales Executive). 
 
 
 
 ### 2. Demographics
 
-* 
-**Age Profile:** Most employees fall within the 20–29 age bin. 
+* **Age Profile:** Most employees fall within the 20–29 age bin. 
 
 
-* 
-**Diversity:** Includes data on Gender, Marital Status, and Ethnicity. 
+* **Diversity:** Includes data on Gender, Marital Status, and Ethnicity. 
 
 
-* 
-**Compensation:** Correlates average salary with ethnicity, with average salaries ranging between $100K and $115K. 
+* **Compensation:** Correlates average salary with ethnicity, with average salaries ranging between $100K and $115K. 
 
 
 
 ### 3. Performance Tracker
 
-* 
-**Individual Reviews:** Detailed tracking for specific employees (e.g., Anet Dublin). 
+* **Individual Reviews:** Detailed tracking for specific employees (e.g., Anet Dublin). 
 
 
-* 
-**Satisfaction Trends:** Longitudinal tracking (2016–2022) of Job, Relationship, and Environment satisfaction. 
+* **Satisfaction Trends:** Longitudinal tracking (2016–2022) of Job, Relationship, and Environment satisfaction. 
 
 
-* 
-**Ratings:** Compares Self Ratings, Manager Ratings, and Work-Life Balance. 
+* **Ratings:** Compares Self Ratings, Manager Ratings, and Work-Life Balance. 
 
 
 
 ### 4. Attrition Analysis
 
-* 
-**Travel Impact:** "Frequent Travellers" show a significantly higher attrition rate (approx. 25%) compared to those who do not travel. 
+* **Travel Impact:** "Frequent Travellers" show a significantly higher attrition rate (approx. 25%) compared to those who do not travel. 
 
 
-* 
-**Role-Specific Attrition:** Highest attrition is observed in Sales Representatives and Human Resources roles. 
+* **Role-Specific Attrition:** Highest attrition is observed in Sales Representatives and Human Resources roles. 
 
 
-* 
-**Tenure & Overtime:** Analyzes how years at the company and overtime requirements influence employee turnover. 
+* **Tenure & Overtime:** Analyzes how years at the company and overtime requirements influence employee turnover. 
 
 
 ![HR-Analytics-Dashboard_page-0001](https://github.com/user-attachments/assets/13a5da48-5c9c-4fdc-ab5f-0bc6a60f2b0d)
